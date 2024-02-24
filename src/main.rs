@@ -2,5 +2,5 @@ mod config;
 mod launcher;
 
 fn main() {
-    println!("Hello, world!");
+    launcher::launch_discord();
 }
