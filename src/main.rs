@@ -1,5 +1,5 @@
 mod config;
-mod locator;
+mod launcher;
 
 fn main() {
     println!("Hello, world!");
